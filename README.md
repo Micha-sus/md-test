@@ -1,5 +1,6 @@
-# Inahlt
+# Anwenderdokumentation
 
+## Inhalt
 
 - [1 Anmeldung](#1-anmeldung)
 - [2 Messprogramme](#2-messprogramme)
