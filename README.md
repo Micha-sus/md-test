@@ -1,3 +1,6 @@
+* TOC
+{:toc}
+
 # Welcome to My Demo Page
 
 This is a demo Markdown content to be rendered on your webpage.
